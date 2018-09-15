@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Ben "crushn nuts" Hidalgo
 
-You can use the [editor on GitHub](https://github.com/thealexhidalgo/thealexhidalgo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Benny](https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/28661455_10101176705429754_70136500368557927_n.jpg?_nc_cat=0&oh=2e4723813e7ba8ee32d2fe7f1ecdd1ce&oe=5C2FD3B4)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
